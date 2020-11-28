@@ -18,3 +18,41 @@ img{
     left: 50%;
     padding: 10px;
 }
+.gray{
+    background-color: rgb(233, 233, 233);
+}
+.post{
+    width: 700px;
+    height: 450px;
+    background-color: white;
+}
+.borderless{
+    border: none;
+    background: transparent;
+}
+.num{
+    color: gray;
+    float: right;
+}
+.post h3{
+    float: left;
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+    margin-left:0.5em;
+    margin-right:0.5em;
+}
+.likes{
+    font-size: 1.2em;
+}
+.post p{
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+    margin-left:0.5em;
+    margin-right:0.5em;
+}
+.post a{
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+    margin-left:0.5em;
+    margin-right:0.5em;
+}
